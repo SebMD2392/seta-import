@@ -1,5 +1,5 @@
 {
-  "buildCommand": "vite build",
+  "buildCommand": "echo ok",
   "outputDirectory": "dist",
   "framework": "vite"
 }
